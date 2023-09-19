@@ -4,5 +4,5 @@ def uppercase_string(string):
 
 
 def uppercase_string_new(string):
-    """функция, которая переводит первые буквы в заглавные"""
+    """567функция, которая переводит первые буквы в заглавные"""
     return string.title()
